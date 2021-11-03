@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
-## 👨‍💻 Intro
+## 👨‍💻 My Profile
 
 - 🏫 **Studying** at UESTC, China.
 - 💓 **Interested** in `Python`:
@@ -15,12 +15,12 @@
 - 💬 **Reach me** through QQ directly (best way): `1014305148`, or QQ mail (less recommended).
 - 📜 **Personal Blog** at [mrcai.space](https://mrcai.space).
 
-## 📈 Stats
+## 📈 My Stats
 
 |[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
-## 🗃️Stack
+## 🗃️ My Stack
 
 <table>
   <tr>
@@ -85,7 +85,7 @@
   </tr>
 </table>
 
-## 🔍Maybe you are looking for...
+## 🔍 Maybe you are looking for...
 
 |Tool|Project|
 |---|---|
