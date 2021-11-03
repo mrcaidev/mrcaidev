@@ -17,7 +17,7 @@
 
 ## 📈 Stats
 
-|[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
+|[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 ## 🗃️Stack
@@ -45,6 +45,10 @@
       <br>Markdown
     </td>
     <td align="center" width="96">
+        <img src="./images/java.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
         <img src="./images/database.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
@@ -63,11 +67,15 @@
       <br>JavaScript
     </td>
     <td align="center"  width="96">
+        <img src="./images/console.svg" width="48" height="48" alt="Batchfile" />
+      <br>Batchfile
+    </td>
+    <td align="center"  width="96">
         <img src="./images/matlab.svg" width="48" height="48" alt="MATLAB" />
       <br>MATLAB
     </td>
     <td align="center" width="96">
-        <img src="./images/verilog.svg" width="48" height="48" alt="Powershell" />
+        <img src="./images/verilog.svg" width="48" height="48" alt="Verilog" />
       <br>Verilog
     </td>
     <td align="center"  width="96">
@@ -79,7 +87,7 @@
 
 ## 🔍Maybe you are looking for...
 
-|Tools|Projects|
+|Tool|Project|
 |---|---|
 |<a href="https://github.com/MrCaiDev/uestc_temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc_temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/UESTC-CNTProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=UESTC-CNTProject&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/GoCalculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=GoCalculator&theme=github_dark" /></a>|
