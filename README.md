@@ -1,33 +1,26 @@
 <h1 align="center">
-  Welcome to MrCai's GitHub Home Page!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  🎉Welcome to MrCai's GitHub Home Page!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
-<p align="center">
-  <a href="https://mrcai.space"><img width="32px" alt="Blog" title="Blog" src="./images/blog.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://music.163.com/#/user/home?id=391273836"><img width="32px" alt="CloudMusic" title="CloudMusic" src="./images/cloudmusic.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://space.bilibili.com/35364718"><img width="32px" alt="Bilibili" title="Bilibili" src="./images/bilibili.svg"/></a>
-</p>
-
-## Intro
+## 👨‍💻 Intro
 
 - 🏫 **Studying** at UESTC, China.
 - 💓 **Interested** in `Python`:
-  - 🔎 Webspider _(Requests, Scrapy, Selenium...)_
+  - 🖇️ Webspider _(Requests, Scrapy, Selenium...)_
   - 🖋️ Data Analysis _(Numpy, Pandas, Matplotlib...)_
   - 🤖 Automation _(PyQt5, Pywinauto, xlwings...)_
-  - ...
-- 📚 **Learning** `Frontend` Development. (Just getting started) Looking for someone to study together!
+  - 🔆 Others _(Pytorch, Wordcloud, PIL...)_
+- 📖 **Learning** `Web` Development. (Just getting started!) Looking for someone to study together!
 - 💬 **Reach me** through QQ directly (best way): `1014305148`, or QQ mail (less recommended).
+- 📜 **Personal Blog** at [mrcai.space](https://mrcai.space).
 
-## Stats
+## 📈 Stats
 
 |[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
-## Stack
+## 🗃️Stack
 
 <table>
   <tr>
@@ -84,7 +77,7 @@
   </tr>
 </table>
 
-## Maybe you are looking for...
+## 🔍Maybe you are looking for...
 
 |Tools|Projects|
 |---|---|
