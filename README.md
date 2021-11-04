@@ -89,7 +89,7 @@
 
 |Tool|Project|
 |---|---|
-|<a href="https://github.com/MrCaiDev/uestc_temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc_temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/UESTC-CNTProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=UESTC-CNTProject&theme=github_dark" /></a>|
+|<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/uestc-CNTProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-CNTProject&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/GoCalculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=GoCalculator&theme=github_dark" /></a>|
 
 <h2 align="center">✨Living, learning, developing.✨</h2>
