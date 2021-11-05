@@ -92,4 +92,6 @@
 |<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/uestc-CNTProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-CNTProject&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/GoCalculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=GoCalculator&theme=github_dark" /></a>|
 
+<img src="https://activity-graph.herokuapp.com/graph?username=MrCaiDev&theme=react-dark&hide_border=true"/>
+
 <h2 align="center">✨Living, learning, developing.✨</h2>
