@@ -17,7 +17,7 @@
 
 ## 📈 My Stats
 
-|[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
+|[![MrCaiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCaiDev&theme=github_dark&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 ## 🗃️ My Stack
