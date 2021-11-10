@@ -23,7 +23,6 @@
 ## 🗃️ My Stack
 
 <table>
-  <tr>
     <td align="center" width="96">
         <img src="./images/c.svg" width="48" height="48" alt="C" />
       <br>C
@@ -41,19 +40,9 @@
       <br>Go
     </td>
     <td align="center" width="96">
-        <img src="./images/markdown.svg" width="48" height="48" alt="Markdown" />
-      <br>Markdown
-    </td>
-    <td align="center" width="96">
-        <img src="./images/java.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
         <img src="./images/database.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
         <img src="./images/html.svg" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -70,19 +59,6 @@
         <img src="./images/console.svg" width="48" height="48" alt="Batchfile" />
       <br>Batchfile
     </td>
-    <td align="center"  width="96">
-        <img src="./images/matlab.svg" width="48" height="48" alt="MATLAB" />
-      <br>MATLAB
-    </td>
-    <td align="center" width="96">
-        <img src="./images/verilog.svg" width="48" height="48" alt="Verilog" />
-      <br>Verilog
-    </td>
-    <td align="center"  width="96">
-        <img src="./images/git.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
 </table>
 
 ## 🔍 Maybe you are looking for...
@@ -91,6 +67,7 @@
 |---|---|
 |<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/uestc-CNTProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-CNTProject&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/GoCalculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=GoCalculator&theme=github_dark" /></a>|
+|<a href="https://github.com/MrCaiDev/bilibili"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=bilibili&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/mathexp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=mathexp&theme=github_dark" /></a>|
 
 <img src="https://activity-graph.herokuapp.com/graph?username=MrCaiDev&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9"/>
 
