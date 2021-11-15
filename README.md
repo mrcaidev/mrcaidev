@@ -69,7 +69,7 @@
 |---|---|
 |<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/cnt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=cnt&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/go-calculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=go-calculator&theme=github_dark" /></a>|
-|<a href="https://github.com/MrCaiDev/bilibili"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=bilibili&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/mathexp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=mathexp&theme=github_dark" /></a>|
+|<a href="https://github.com/MrCaiDev/bilibili"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=bilibili&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/matlab-experiment"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=matlab-experiment&theme=github_dark" /></a>|
 
 <img src="https://activity-graph.herokuapp.com/graph?username=MrCaiDev&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9"/>
 
