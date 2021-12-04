@@ -22,54 +22,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaiDev&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:190px;" />
 </div>
 
-## 🗃️ My Stack
-
-<table>
-    <td align="center" width="96">
-        <img src="./images/c.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="./images/cpp.svg" width="48" height="48" alt="Cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="./images/Python.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="./images/go.svg" width="48" height="48" alt="Golang" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="./images/database.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="./images/html.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="./images/css.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="96">
-        <img src="./images/console.svg" width="48" height="48" alt="Batchfile" />
-      <br>Batchfile
-    </td>
-</table>
-
 ## 🔍 Maybe you are looking for...
 
 |Tool|Project|
 |---|---|
 |<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/cnt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=cnt&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/pixiv"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=pixiv&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/go-calculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=go-calculator&theme=github_dark" /></a>|
-|<a href="https://github.com/MrCaiDev/bilibili"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=bilibili&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/matlab-experiment"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=matlab-experiment&theme=github_dark" /></a>|
+|<a href="https://github.com/MrCaiDev/bilibili"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=bilibili&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/blockchain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=blockchain&theme=github_dark" /></a>|
 
 <img src="https://activity-graph.herokuapp.com/graph?username=MrCaiDev&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9"/>
 
