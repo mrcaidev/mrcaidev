@@ -10,7 +10,7 @@
   - 🖇️ Webspider _(Requests, Scrapy, Selenium...)_
   - 🖋️ Data Analysis _(NumPy, Pandas, Matplotlib...)_
   - 🤖 Automation _(PyQt5, Pywinauto, xlwings...)_
-  - 🔆 Others _(socket, Pytorch, Wordcloud...)_
+  - 🔆 Others _(socket, PyTorch, Wordcloud...)_
 - 📖 **Learning** Web Development. (Just getting started!) Looking for someone to study together!
 - 💬 **Reach me** through QQ directly (best way): `1014305148`, or <a href="mailto:1014305148@qq.com">QQ mail</a> (less recommended).
 - 📜 **Personal Blog** at [mrcai.space](https://mrcai.space).
@@ -24,7 +24,7 @@
 
 ## 🔍 Maybe you are looking for...
 
-|Tool|Project|
+|Utilities|Schoolwork|
 |---|---|
 |<a href="https://github.com/MrCaiDev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/cnt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=cnt&theme=github_dark" /></a>|
 |<a href="https://github.com/MrCaiDev/legym"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=legym&theme=github_dark" /></a>|<a href="https://github.com/MrCaiDev/go-calculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrCaiDev&repo=go-calculator&theme=github_dark" /></a>|
