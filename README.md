@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎉 Welcome to MrCai's GitHub Home Page!
+  🎉Welcome to MrCai's GitHub Home Page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
