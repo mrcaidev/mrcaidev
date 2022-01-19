@@ -6,13 +6,10 @@
 ## 👨‍💻 My Profile
 
 - 🏫 **Studying** at UESTC, China.
-- 💓 **Interested** in Python:
-  - 🖇️ Webspider _(Requests, Scrapy, Selenium...)_
-  - 🖋️ Data Analysis _(NumPy, Pandas, Matplotlib...)_
-  - 🤖 Automation _(PyQt5, Pywinauto, xlwings...)_
-  - 🔆 Others _(socket, PyTorch, Wordcloud...)_
-- 📖 **Learning** Web Development. (Just getting started!) Looking for someone to study together!
+- 💓 **Interested** in Python (and most familiar with it, of course).
+- 📖 **Learning** Web Development. Looking for someone to study together!
 - 💬 **Reach me** through QQ directly (best way): `1014305148`, or <a href="mailto:1014305148@qq.com">QQ mail</a> (less recommended).
+- 📚 **Blog** on [mrcai.space](https://mrcai.space).
 
 ## 📈 My Stats
 
