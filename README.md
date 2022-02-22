@@ -9,7 +9,7 @@
 - 💓 **Interested** in Python (and most familiar with it, of course).
 - 📖 **Learning** Web Development. Looking for someone to study together!
 - 💬 **Reach me** through QQ directly (best way): `1014305148`, or <a href="mailto:mrcaidev@qq.com">QQ mail</a> (less recommended).
-- 📚 **Blog** on [mrcai.space](https://mrcaidev.github.io).
+- 📚 **Blog** on [mrcaidev.github.io](https://mrcaidev.github.io).
 
 ## 📈 My Stats
 
