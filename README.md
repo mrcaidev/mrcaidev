@@ -17,12 +17,6 @@
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" style="height:182px;cursor:default" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:182px;cursor:default" />|
 
-## 🛠️ Looking for utilities?
-
-|自动打卡|乐健破解|
-|---|---|
-|<a href="https://github.com/mrcaidev/uestc-temperature"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcaidev&repo=uestc-temperature&theme=github_dark" /></a>|<a href="https://github.com/mrcaidev/legym"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrcaidev&repo=legym&theme=github_dark" /></a>|
-
 ## 🏫 Looking for courseworks?
 
 |计算机网络与通信技术|计算机组成与结构|
