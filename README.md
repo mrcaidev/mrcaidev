@@ -1,9 +1,9 @@
 <h1 align="center">
-  🎉 Welcome to MrCai's GitHub Home Page!
+  🎉 Welcome to MrCai's GitHub Homepage!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
-## 🌐 I'm currently working on frontend.
+## 🌐 I'm currently working on frontend...
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-ESLint-indigo?logo=eslint" alt="" />
 </p>
 
-## 🖥️ And I worked with Python for some time.
+## 🖥️ And I worked with Python for some time...
 
 <p align="center">
   <img src="https://img.shields.io/badge/-requests-green?logo=requests" alt="" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/PyQt5-gold?logo=pyqt5" alt="" />
 </p>
 
-## ❤️ Among all the solutions I prefer.
+## ❤️ Among all the solutions I prefer...
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode" alt="" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/-GitHub-gray?logo=github" alt="" />
 </p>
 
-## 📈 Here are some of my stats.
+## 📈 Here are some of my stats...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" style="width:80%;" />
