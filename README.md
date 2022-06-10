@@ -35,8 +35,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode" alt="" />
-  <img src="https://img.shields.io/badge/-Manjaro-darkslategray?logo=manjaro" alt="" />
-  <img src="https://img.shields.io/badge/-Edge-darkgreen?logo=microsoftedge" alt="" />
+  <img src="https://img.shields.io/badge/-Arch-darkslategray?logo=archlinux" alt="" />
+  <img src="https://img.shields.io/badge/-Firefox-blue?logo=firefox" alt="" />
   <img src="https://img.shields.io/badge/-GitHub-gray?logo=github" alt="" />
 </p>
 
