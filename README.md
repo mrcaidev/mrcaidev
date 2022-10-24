@@ -1,10 +1,11 @@
 # Hi, I'm Yuwang Cai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-- [x] A **college student** from China.
-- [x] Self learning **web development**.
-- [x] Follows **trending tech**.
+- Chinese undergraduate
+- Web developer
+- Tech enthusiast
+- He / him
 
-> Find more on [my homepage](https://mrcai.space)!
+> Find more on [my portfolio website](https://mrcai.dev)!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" style="width:55%;" />
