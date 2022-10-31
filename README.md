@@ -5,7 +5,7 @@
 - Tech enthusiast
 - He / him
 
-> Find more on [my portfolio website](https://mrcai.dev)!
+> Find more on [my homepage](https://mrcai.dev)!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" style="width:55%;" />
