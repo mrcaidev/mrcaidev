@@ -7,7 +7,7 @@
 
 > Find more on [my website](https://mrcai.dev)!
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats-eight-beige.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8" />
 </div>
