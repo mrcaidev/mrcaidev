@@ -77,7 +77,7 @@ Read more posts on [my blog site](https://mrcai.dev/blog/1), or follow me on [DE
 [![mrcaidev/webdev-config](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=webdev-config&theme=github_dark)](https://github.com/mrcaidev/webdev-config)
 [![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 [![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true)](https://github.com/mrcaidev)
 [![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8)](https://github.com/mrcaidev)
