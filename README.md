@@ -66,15 +66,15 @@
 
 👉 [Design Patterns in Functional Programming](https://mrcai.dev/blog/posts/design-patterns-in-functional-programming)
 
-Read more posts on [my blog site](https://mrcai.dev/blog/1), or follow me on [DEV community](https://dev.to/mrcaidev)!
+Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV community](https://dev.to/mrcaidev)!
 
 ## 📌 Pinned Projects
 
 [![mrcaidev/hooks](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
+[![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
 [![mrcaidev/cue](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=cue&theme=github_dark)](https://github.com/mrcaidev/cue)
 [![mrcaidev/paste](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=paste&theme=github_dark)](https://github.com/mrcaidev/paste)
 [![mrcaidev/mrcai.dev](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=mrcai.dev&theme=github_dark)](https://github.com/mrcaidev/mrcai.dev)
-[![mrcaidev/webdev-config](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=webdev-config&theme=github_dark)](https://github.com/mrcaidev/webdev-config)
 [![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
 
 ## 📈 GitHub Statistics
