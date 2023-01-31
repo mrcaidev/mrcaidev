@@ -15,6 +15,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Preact](https://img.shields.io/badge/preact-673ab8?style=for-the-badge&logo=preact&logoColor=ffffff)](https://preactjs.com/)
+[![Solid](https://img.shields.io/badge/solid-446b9e?style=for-the-badge&logo=solid&logoColor=ffffff)](https://www.solidjs.com/)
 [![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/astro-7e22ce?style=for-the-badge&logo=astro&logoColor=ffffff)](https://astro.build/)
 [![Tailwind CSS](https://shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
@@ -22,6 +23,7 @@
 [![Framer Motion](https://shields.io/badge/framer%20motion-1a1a1a?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
 [![Chakra UI](https://shields.io/badge/chakra%20ui-4fd1c5?style=for-the-badge&logo=chakraui&logoColor=ffffff)](https://chakra-ui.com/)
 [![Material UI](https://shields.io/badge/material%20ui-007fff?style=for-the-badge&logo=mui&logoColor=ffffff)](https://mui.com/)
+[![Vitest](https://img.shields.io/badge/vitest-6da13f?style=for-the-badge&logo=vitest&logoColor=ffffff)](https://vitest.dev/)
 [![Jest](https://shields.io/badge/jest-18df16?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/)
 [![Testing Library](https://shields.io/badge/testing%20library-e33433?style=for-the-badge&logo=testinglibrary&logoColor=ffffff)](https://testing-library.com/)
 [![npm](https://img.shields.io/badge/npm-cb0000?style=for-the-badge&logo=npm&logoColor=ffffff)](https://www.npmjs.com/)
@@ -30,10 +32,10 @@
 [![Turborepo](https://img.shields.io/badge/turborepo-000000?style=for-the-badge&logo=turborepo)](https://turbo.build/repo)
 [![ESLint](https://shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=ffffff)](https://eslint.org/)
 [![Prettier](https://shields.io/badge/prettier-24292e?style=for-the-badge&logo=prettier)](https://prettier.io/)
-[![Commitlint](https://shields.io/badge/commitlint-121212?style=for-the-badge&logo=commitlint&logoColor=ffffff)](https://commitlint.js.org/#/)
+[![Commitlint](https://shields.io/badge/commitlint-121212?style=for-the-badge&logo=commitlint&logoColor=ffffff)](https://commitlint.js.org/)
 [![EditorConfig](https://shields.io/badge/editorconfig-000?style=for-the-badge&logo=editorconfig&logoColor=ffffff)](https://editorconfig.org/)
-[![Husky](https://shields.io/badge/husky-42b983?style=for-the-badge&logo=git&logoColor=ffffff)](https://typicode.github.io/husky/#/)
-[![Lint staged](https://shields.io/badge/lint%20staged-f54d27?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/okonet/lint-staged#readme)
+[![Husky](https://shields.io/badge/husky-42b983?style=for-the-badge&logo=git&logoColor=ffffff)](https://typicode.github.io/husky/)
+[![Lint staged](https://shields.io/badge/lint%20staged-f54d27?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/okonet/lint-staged)
 
 ### Backend
 
@@ -60,11 +62,11 @@
 
 ## 📜 Featured Posts
 
-👉 [Everything You Need To Know About 100 Continue](https://mrcai.dev/blog/posts/everything-you-need-to-know-about-100-continue)
+👉 [Everything You Need To Know About 100 Continue](https://blog.mrcai.dev/post/1)
 
-👉 [HTTP Caching - Fresh, Stale and Revalidation](https://mrcai.dev/blog/posts/http-caching-fresh-stale-and-revalidation)
+👉 [HTTP Caching - Fresh, Stale and Revalidation](https://blog.mrcai.dev/post/2)
 
-👉 [Design Patterns in Functional Programming](https://mrcai.dev/blog/posts/design-patterns-in-functional-programming)
+👉 [Design Patterns in Functional Programming](https://blog.mrcai.dev/post/3)
 
 Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV community](https://dev.to/mrcaidev)!
 
