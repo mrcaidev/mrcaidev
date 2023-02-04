@@ -76,7 +76,7 @@ Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV commu
 [![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
 [![mrcaidev/cue](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=cue&theme=github_dark)](https://github.com/mrcaidev/cue)
 [![mrcaidev/paste](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=paste&theme=github_dark)](https://github.com/mrcaidev/paste)
-[![mrcaidev/mrcai.dev](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=mrcai.dev&theme=github_dark)](https://github.com/mrcaidev/mrcai.dev)
+[![mrcaidev/portfolio](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=portfolio&theme=github_dark)](https://github.com/mrcaidev/portfolio)
 [![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
 
 ## 📈 GitHub Statistics
