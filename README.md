@@ -84,4 +84,4 @@ Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV commu
 ![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcaidev&theme=react-dark&color=58a6ff&line=58a6ff&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcaidev&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
