@@ -16,9 +16,10 @@
 [![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Preact](https://img.shields.io/badge/preact-673ab8?style=for-the-badge&logo=preact&logoColor=ffffff)](https://preactjs.com/)
 [![Solid](https://img.shields.io/badge/solid-446b9e?style=for-the-badge&logo=solid&logoColor=ffffff)](https://www.solidjs.com/)
-[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/astro-7e22ce?style=for-the-badge&logo=astro&logoColor=ffffff)](https://astro.build/)
+[![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![Tailwind CSS](https://shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
+[![UnoCSS](https://shields.io/badge/unocss-4d4d4d?style=for-the-badge&logo=unocss&logoColor=ffffff)](https://unocss.dev/)
 [![Styled Components](https://shields.io/badge/styled%20components-aa2a8d?style=for-the-badge&logo=styledcomponents&logoColor=ffffff)](https://styled-components.com/)
 [![Framer Motion](https://shields.io/badge/framer%20motion-1a1a1a?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
 [![Chakra UI](https://shields.io/badge/chakra%20ui-4fd1c5?style=for-the-badge&logo=chakraui&logoColor=ffffff)](https://chakra-ui.com/)
@@ -44,7 +45,7 @@
 [![Express](https://shields.io/badge/express-eeeeee?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/)
 [![Nest](https://shields.io/badge/nest-e0234e?style=for-the-badge&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)
 [![Supabase](https://shields.io/badge/supabase-339468?style=for-the-badge&logo=supabase&logoColor=ffffff)](https://supabase.com/)
-[![Postgres](https://shields.io/badge/postgres-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![PostgreSQL](https://shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 
 ### DevOps
 
@@ -72,11 +73,11 @@ Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV commu
 
 ## 📌 Pinned Projects
 
-[![mrcaidev/hooks](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
+[![mrcaidev/uestc](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=uestc&theme=github_dark)](https://github.com/mrcaidev/uestc)
 [![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
+[![mrcaidev/hooks](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
 [![mrcaidev/cue](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=cue&theme=github_dark)](https://github.com/mrcaidev/cue)
-[![mrcaidev/paste](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=paste&theme=github_dark)](https://github.com/mrcaidev/paste)
-[![mrcaidev/portfolio](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=portfolio&theme=github_dark)](https://github.com/mrcaidev/portfolio)
+[![mrcaidev/homepage](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=homepage&theme=github_dark)](https://github.com/mrcaidev/homepage)
 [![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
 
 ## 📈 GitHub Statistics
@@ -84,4 +85,4 @@ Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV commu
 ![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcaidev&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
+![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=mrcaidev&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
