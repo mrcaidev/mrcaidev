@@ -1,7 +1,7 @@
 # Hi, I'm Yuwang Cai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-- 🎓 Chinese undergraduate
-- 💻 Web developer
+- 🎓 Chinese student
+- 💻 Full stack developer
 - ❤️ Tech enthusiast
 - 👦 He/him
 
@@ -73,16 +73,15 @@ Read more posts on [my blog](https://blog.mrcai.dev), or follow me on [DEV commu
 
 ## 📌 Pinned Projects
 
-[![mrcaidev/uestc](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=uestc&theme=github_dark)](https://github.com/mrcaidev/uestc)
-[![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
-[![mrcaidev/hooks](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
-[![mrcaidev/cue](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=cue&theme=github_dark)](https://github.com/mrcaidev/cue)
-[![mrcaidev/homepage](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=homepage&theme=github_dark)](https://github.com/mrcaidev/homepage)
-[![mrcaidev/design-patterns](https://github-readme-stats-eight-beige.vercel.app/api/pin/?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
+[![mrcaidev/uestc](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=uestc&theme=github_dark)](https://github.com/mrcaidev/uestc)
+[![mrcaidev/tailwindcss-radix-colors](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=tailwindcss-radix-colors&theme=github_dark)](https://github.com/mrcaidev/tailwindcss-radix-colors)
+[![mrcaidev/hooks](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=hooks&theme=github_dark)](https://github.com/mrcaidev/hooks)
+[![mrcaidev/iwallpaper](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=iwallpaper&theme=github_dark)](https://github.com/mrcaidev/iwallpaper)
+[![mrcaidev/homepage](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=homepage&theme=github_dark)](https://github.com/mrcaidev/homepage)
+[![mrcaidev/design-patterns](https://github-readme-stats.mrcai.dev/api/pin?username=mrcaidev&repo=design-patterns&theme=github_dark)](https://github.com/mrcaidev/design-patterns)
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true)
-![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8)
-
-![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=mrcaidev&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
+![Community Activities](https://github-readme-stats.mrcai.dev/api?username=mrcaidev&theme=github_dark&hide_rank=true&show_icons=true&custom_title=Community%20Activities)
+![Most Used Languages](https://github-readme-stats.mrcai.dev/api/top-langs?username=mrcaidev&theme=github_dark&layout=compact&langs_count=8)
+![Contribution History](https://github-readme-activity-graph.mrcai.dev/graph?username=mrcaidev&theme=github-dark&custom_title=Contribution%20History)
