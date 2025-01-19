@@ -9,8 +9,8 @@ I write full-stack apps and NPM libraries.
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=transparent&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcaidev&langs_count=8&theme=transparent&layout=compact&hide_border=true&hide=verilog)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=transparent&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats)](https://github.com/mrcaidev)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcaidev&langs_count=8&theme=transparent&layout=compact&hide_border=true&hide=verilog)](https://github.com/mrcaidev)
 
 > [!NOTE]
 > When emailing me, please do **explicitly include my full name** to distinguish it from spam. Thank you!
