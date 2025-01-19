@@ -1,6 +1,6 @@
 # Hi, I'm Yuwang Cai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 
-I write full-stack apps and NPM libraries.
+I write full-stack apps and npm libraries.
 
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react)](https://react.dev/)
