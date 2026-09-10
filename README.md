@@ -1,3 +1,8 @@
-# Hi, I'm mrcaidev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+# mrcaidev
 
-I would call myself a **frontend** developer, **fullstack**-able if needed, but happen to be building **agents** for a living.
+Agent infra developer at Volcano Engine, ByteDance.
+
+## Depending on who you are...
+
+- For my fellow UESTC students, you might be looking for [my course projects](https://github.com/mrcaidev/uestc), though I think AI is a much better option nowadays.
+- For recruiters, I am not planning for a job change at the moment.
